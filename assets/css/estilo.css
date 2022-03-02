@@ -1,0 +1,38 @@
+@import url('https://fonts.googleleapis.com//css2?family=Indie+Flower&display=swap');
+
+.titulo 
+{
+    font-family: caveat;
+    font-size: 5rem;
+    font-style: cursive;
+    font-weight: normal; 
+}
+
+.parrafo
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: crimson;
+    width: 20rem;
+    height: 20rem;
+    border: 1px;
+
+}
+
+.red-text-shadow {
+    text-shadow: red 0 -2px;
+ }
+
+ .white-with-blue-shadow {
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+    color: white;
+    font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+ }
+
+ .gold-on-gold {
+    text-shadow: rgba(0,0,0,0.1) -1px 0, rgba(0,0,0,0.1) 0 -1px,
+    rgba(255,255,255,0.1) 1px 0, rgba(255,255,255,0.1) 0 1px,
+    rgba(0,0,0,0.1) -1px -1px, rgba(255,255,255,0.1) 1px 1px;
+    color: gold;
+    background: gold;
+ }
+
